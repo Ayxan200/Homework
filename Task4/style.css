@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.Zoom{
+    display: inline-block;
+    font-weight: normal;
+    margin-left: 50px;
+}
+.KD14{
+    display: inline-block;
+    font-weight: normal;
+    margin-left: 50px;
+}
+.LeBron{
+    display: inline-block;
+    font-weight: normal;
+    margin-left: 50px;
+}
+.Name{
+    width: 100%;
+}

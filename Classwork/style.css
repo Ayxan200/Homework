@@ -1,0 +1,36 @@
+img{
+    border: 1px;
+    border-radius: 50%;
+    width: 150px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.form-block{
+    padding: 20px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.div-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+    
+}
+input{
+    padding: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+    border-radius:10px ;
+    width: 300px;
+    
+}
+div{
+    border-radius: 10px;
+}
+button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    background-color:rgb(59, 34, 172);
+    color: aliceblue;
+}

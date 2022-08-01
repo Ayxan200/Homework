@@ -1,0 +1,25 @@
+.form-block{
+    padding: 0 auto;
+    width: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.div-block{
+    
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+}
+div{
+    border-radius: 10px;
+
+}
+button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    background-color:rgb(156, 17, 119);
+    color: aliceblue;
+}
+body{
+    background-image: linear-gradient(to right blue, violet);
+}

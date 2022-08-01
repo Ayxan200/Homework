@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 10px;
+    border-left: 20px;
+}
+.col-1{
+    width: calc(100% * 1 / 12);
+    
+}
+.col-2{
+    width: calc(100% * 1 / 6);
+}
+.col-3{
+    width: calc(100% * 1 / 4);
+}
